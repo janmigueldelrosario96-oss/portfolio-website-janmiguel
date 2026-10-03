@@ -312,6 +312,7 @@ color changes in some parts of the website, in light theme
 .about-no,
 .about-title {
   color: var(--white-color);
+  text-align: center;
 }
 
 .about-no {
